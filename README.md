@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm Evan!
 
-<!--
-**3van-sys1/3van-sys1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Statistics student at Brigham Young University with an interest in data science, programming, and problem-solving.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Studying Applied Statistics and Analytics at BYU
+
+💻 Learning R, Python, Git, Linux, SQL, and VBA
+
+📊 Interested in data analysis and real-world applications
+
+🌱 Always looking to develop new technical skills
+
+## Current Projects
+
+- Analyzing environmental data from Utah Lake relating to harmful algae blooms
+
+- R-based pipeline to track price and evaluate worth of my Magic the Gathering Collection
+
+## Interests
+
+Data Science | Statistics | Programming | Sports 
+
+## Ask me about:
+- All things sports
+- Favorite mtg decks
+- my work with Utah Lake
+- Future plans and goals
+
+## Looking for help in:
+- Meeting mentors
+- Making connections
+- Finding future opportunities and internships
