@@ -6,7 +6,7 @@ I'm a Statistics student at Brigham Young University with an interest in data sc
 
 🎓 Studying Applied Statistics and Analytics at BYU
 
-💻 Learning R, Python, Git, Linux, SQL, and VBA
+💻 Learning R, Python, Git, Linux, SQL, VBA, AWS, and Tableau
 
 📊 Interested in data analysis and real-world applications
 
