@@ -16,7 +16,7 @@ I'm a Statistics student at Brigham Young University with an interest in data sc
 
 - Analyzing environmental data from Utah Lake relating to harmful algae blooms
 
-- R-based pipeline to track price and evaluate worth of my Magic the Gathering Collection
+- R-based pipeline to track price and evaluate worth of cards in my Magic the Gathering Collection
 
 ## Interests
 
